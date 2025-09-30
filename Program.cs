@@ -73,7 +73,7 @@ else
         if (choice == "1")
         {
             // Add Character
-           /* Character character = new();
+            Character character = new();
             Console.WriteLine("Enter new character name: ");
             // string? Name = Console.ReadLine();
             // if (!string.IsNullOrEmpty(Name))
@@ -127,7 +127,7 @@ else
             {
                 // Display All Characters
                 // loop thru List
-                foreach (Character character in characters)
+                /* foreach (Character character in characters)
                 // for (int i = 0; i < Ids.Count; i++)
                 {
                     // display character details
