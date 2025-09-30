@@ -73,7 +73,7 @@ else
         if (choice == "1")
         {
             // Add Character
-            Character character = new();
+           /* Character character = new();
             Console.WriteLine("Enter new character name: ");
             // string? Name = Console.ReadLine();
             // if (!string.IsNullOrEmpty(Name))
