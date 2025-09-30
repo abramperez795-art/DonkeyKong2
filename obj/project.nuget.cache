@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8lHCaRSgRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Documents\\.Net Database Programming\\DonkeyKong2\\Donkey Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

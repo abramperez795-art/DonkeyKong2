@@ -80,7 +80,7 @@ else
             character.Name = Console.ReadLine() ?? string.Empty;
             if (!string.IsNullOrEmpty(character.Name))
             {
-                {
+                
                     // // generate id - use max value in Ids + 1
                     // UInt64 Id = Ids.Max() + 1;
                     // Console.WriteLine($"{Id}, {Name}");
@@ -115,7 +115,8 @@ else
                         // Descriptions.Add(Description);
                         characters.Add(character);
                         // log transaction
-                        logger.Info($"Character id {Id} added");
+                        logger.Info($"Character id {character.Id} added");
+
                     }
                 }
             else
@@ -142,7 +143,6 @@ else
         } while (choice == "1" || choice == "2") ;
 
     }
-}
 
 
 logger.Info("Program ended");
