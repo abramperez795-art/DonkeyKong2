@@ -1,0 +1,5 @@
+2025-09-29 20:20:44.1076|INFO|Donkey Kong.Program|Program started
+2025-09-29 20:21:13.5757|INFO|Donkey Kong.Program|User choice: "1"
+2025-09-29 20:21:22.5683|INFO|Donkey Kong.Program|Character id 43 added
+2025-09-29 20:21:25.9319|INFO|Donkey Kong.Program|User choice: "2"
+2025-09-30 10:55:14.5946|INFO|Donkey Kong.Program|Program started

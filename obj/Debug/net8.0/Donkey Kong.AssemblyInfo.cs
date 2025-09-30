@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Donkey Kong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29257f5aebb28a4bce7d8605522551159fe601a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28be8a3ad06d1f28b742477982a9fa741e1c51e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Donkey Kong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Donkey Kong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
