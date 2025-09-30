@@ -127,7 +127,7 @@ else
             {
                 // Display All Characters
                 // loop thru List
-                /* foreach (Character character in characters)
+                foreach (Character character in characters)
                 // for (int i = 0; i < Ids.Count; i++)
                 {
                     // display character details
